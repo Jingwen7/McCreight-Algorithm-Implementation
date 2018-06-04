@@ -1,5 +1,5 @@
 /* C++ implementation of McCreight's algorithm construction of suffix tree 
- Author: Jingwen Ren,  USC ID: 7025118377
+ Author: Jingwen Ren
  */
  
 #include <iostream>
